@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+chemparse = "*"
+pyqt5 = "*"
+pyvalem = "*"
+pyparsing = "*"
+importlib-resources = "*"
+requests = "*"
+bs4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
